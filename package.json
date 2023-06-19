@@ -1,0 +1,20 @@
+{
+  "name": "web-dev-hello-express",
+  "version": "1.0.0",
+  "description": "A web.dev template for an express app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "spdy": "^4.0.2"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/web-dev-hello-express"
+  },
+  "license": "Apache-2.0"
+}
